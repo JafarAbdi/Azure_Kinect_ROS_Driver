@@ -5,7 +5,7 @@
  -->
 <package format="2">
   <name>azure_kinect_ros_driver</name>
-  <version>0.9.0</version>
+  <version>100.0.0</version>
   <description>The Azure Kinect Sensor Driver for ROS.</description>
   <maintainer email="stalldri@microsoft.com">Stuart Alldritt</maintainer>
   <author email="stalldri@microsoft.com">Stuart Alldritt</author>
